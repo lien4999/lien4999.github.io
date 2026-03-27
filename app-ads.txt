@@ -1,0 +1,5 @@
+# Google AdMob
+google.com, pub-2675808951017044, DIRECT, f08c47fec0942fa0
+
+# Meta (Facebook)
+facebook.com, 1619715975895570, DIRECT, f08c47fec0942fa0
