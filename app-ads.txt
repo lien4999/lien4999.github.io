@@ -6,3 +6,5 @@ facebook.com, 1619715975895570, DIRECT, f08c47fec0942fa0
 
 # Unity Ads
 unity3d.com, 18968366326782, DIRECT, 97562fcdcd03411c
+
+google.com, pub-7173177957334660, DIRECT, f08c47fec0942fa0
