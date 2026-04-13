@@ -1,9 +1,3 @@
 google.com, pub-7173177957334660, DIRECT, f08c47fec0942fa0
 
-# Meta (Facebook)
-facebook.com, 1619715975895570, DIRECT, f08c47fec0942fa0
-
-# Unity Ads
-unity3d.com, 18968366326782, DIRECT, 97562fcdcd03411c
-
 facebook.com, 834902359717647, DIRECT, c3e20eee3f780d68
